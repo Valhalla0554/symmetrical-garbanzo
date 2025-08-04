@@ -4899,3 +4899,42 @@ java.lang.IllegalStateException: not found
 [04Aug2025 18:40:17.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cax_T lost connection: Disconnected
 [04Aug2025 18:40:17.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T left the game
 [04Aug2025 18:40:17.981] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cax_T
+[04Aug2025 18:52:22.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aquio[/127.179.12.7:60469] logged in with entity id 2268 at (12.656600834121278, 156.0, 59.557978314710994)
+[04Aug2025 18:52:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio joined the game
+[04Aug2025 18:52:24.172] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player aquio has successfully logged in.
+[04Aug2025 18:52:24.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aquio (18)
+[04Aug2025 18:52:24.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aquio
+[04Aug2025 18:52:30.131] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[04Aug2025 18:52:31.232] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[04Aug2025 18:52:46.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[04Aug2025 18:52:47.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[04Aug2025 18:52:47.043] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aquio (cd3856d9-1f22-35c0-a43e-4ce04a018c07) successfully connected to voice chat
+[04Aug2025 18:54:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio was slain by Spider
+[04Aug2025 18:54:54.400] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Yuuichiro425'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md55e8c0$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md55e8c0$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[04Aug2025 18:54:54.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuuichiro425[/127.17.220.8:44163] logged in with entity id 2619 at (547.872448573599, 77.0, -16.69999998807907)
+[04Aug2025 18:54:54.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 joined the game
+[04Aug2025 18:54:55.835] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player yuuichiro425 has successfully logged in.
+[04Aug2025 18:54:55.919] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yuuichiro425 (18)
+[04Aug2025 18:54:55.919] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[04Aug2025 18:54:57.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityFly['Fly'/2803, l='ServerLevel[world]', x=562.31, y=78.43, z=96.06]
+[04Aug2025 18:55:09.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0dc1716d-6324-3292-88fc-ee819627c835
+[04Aug2025 18:55:10.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0dc1716d-6324-3292-88fc-ee819627c835
+[04Aug2025 18:55:10.399] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
