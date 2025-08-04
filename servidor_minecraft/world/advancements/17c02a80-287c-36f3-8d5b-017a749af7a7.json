@@ -2170,6 +2170,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-08-04 07:25:29 +0000",
       "pine_log": "2025-08-04 06:46:30 +0000",
       "silver_birch_log": "2025-08-03 23:18:52 +0000",
       "maple_log": "2025-08-03 22:09:15 +0000"
@@ -3727,6 +3728,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-04 02:28:55 +0000",
+      "honey_bottle": "2025-08-04 07:51:26 +0000",
       "cooked_beef": "2025-08-04 05:27:13 +0000",
       "beef": "2025-08-04 01:13:07 +0000",
       "porkchop": "2025-08-04 01:02:50 +0000",
@@ -5219,15 +5221,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 07:25:29 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:huddle_close": {
     "criteria": {
       "requirement": "2025-08-04 07:16:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-04 07:51:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/doormat_2": {
     "criteria": {
       "forge:crops/flax": "2025-08-04 07:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-04 07:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-04 07:50:49 +0000"
     },
     "done": true
   },
@@ -5243,9 +5269,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-04 07:50:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-08-04 07:25:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/rope": {
     "criteria": {
       "forge:crops/flax": "2025-08-04 07:16:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-04 07:50:49 +0000"
     },
     "done": true
   },
