@@ -906,6 +906,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-08-04 07:56:03 +0000",
       "pine_log": "2025-08-04 00:51:08 +0000",
       "silver_birch_log": "2025-08-04 02:39:32 +0000",
       "maple_log": "2025-08-03 23:42:04 +0000"
@@ -4451,6 +4452,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_hanging_sign": {
+    "criteria": {
+      "has_stripped_larch_log": "2025-08-04 08:05:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 07:56:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
@@ -4463,15 +4482,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-08-04 07:32:18 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-04 07:56:03 +0000"
     },
     "done": true
   },
@@ -4493,9 +4542,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-08-04 08:09:14 +0000"
     },
     "done": true
   },
@@ -4523,6 +4584,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-04 07:42:30 +0000"
@@ -4535,6 +4602,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
@@ -4544,6 +4617,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-08-04 07:40:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/larch_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4562,6 +4641,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-04 07:41:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 08:05:00 +0000"
     },
     "done": true
   },
@@ -4589,6 +4674,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/fd/regions_unexplored/larch_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-04 07:42:30 +0000"
@@ -4598,6 +4689,18 @@
   "immersivegeology:recipes/misc/crafting/get_nuggets_from_copper_ingot": {
     "criteria": {
       "has_ingot_copper": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/larch_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4631,6 +4734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-04 07:56:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
@@ -4640,6 +4749,24 @@
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4691,6 +4818,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
@@ -4703,6 +4836,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/misc/crafting/kinetics/copper_truss": {
     "criteria": {
       "has_item": "2025-08-04 07:41:51 +0000"
@@ -4712,6 +4851,12 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4745,6 +4890,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
@@ -4775,15 +4926,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_trapdoor": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-08-04 07:56:03 +0000"
     },
     "done": true
   },
@@ -4805,6 +4980,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_trim": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 07:40:29 +0000"
@@ -4823,6 +5004,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_larch_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 07:40:29 +0000"
@@ -4832,6 +5019,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 07:40:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4859,6 +5052,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 07:56:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
@@ -4880,6 +5079,18 @@
   "create:recipes/misc/crafting/materials/transmitter": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_larch_post": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
@@ -4907,6 +5118,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-08-04 08:11:51 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/powerpack": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
@@ -4931,6 +5148,24 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-08-04 07:42:30 +0000"
@@ -4952,6 +5187,24 @@
   "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-08-04 07:42:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_post": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 08:06:02 +0000"
     },
     "done": true
   },
