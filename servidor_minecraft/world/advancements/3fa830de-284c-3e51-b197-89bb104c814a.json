@@ -76,6 +76,7 @@
       "pine_taiga": "2025-08-04 06:11:35 +0000",
       "autumnal_maple_forest": "2025-08-04 04:47:29 +0000",
       "muddy_river": "2025-08-04 05:59:28 +0000",
+      "ancient_delta": "2025-08-05 02:53:02 +0000",
       "redstone_caves": "2025-08-04 05:29:54 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
@@ -1036,7 +1037,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-08-04 05:29:54 +0000"
+      "redstone_caves": "2025-08-04 05:29:54 +0000",
+      "ancient_delta": "2025-08-05 02:53:02 +0000"
     },
     "done": false
   },
@@ -4409,9 +4411,27 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-08-05 02:52:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-05 01:58:29 +0000"
+    },
+    "done": true
+  },
+  "strainers:recipes/misc/purifying_salt_mulch": {
+    "criteria": {
+      "has_charcoal": "2025-08-05 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 02:52:40 +0000"
     },
     "done": true
   },

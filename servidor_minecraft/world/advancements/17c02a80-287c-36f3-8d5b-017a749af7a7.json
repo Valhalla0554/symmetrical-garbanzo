@@ -6114,6 +6114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-05 02:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-08-05 02:17:17 +0000"
@@ -6141,6 +6147,18 @@
   "immersiveengineering:recipes/misc/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-08-05 02:28:16 +0000"
+    },
+    "done": true
+  },
+  "strainers:recipes/misc/purifying_salt_mulch": {
+    "criteria": {
+      "has_charcoal": "2025-08-05 02:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-05 02:51:52 +0000"
     },
     "done": true
   },
