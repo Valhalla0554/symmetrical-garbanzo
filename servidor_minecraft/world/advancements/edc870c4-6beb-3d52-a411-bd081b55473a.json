@@ -909,6 +909,7 @@
       "larch_log": "2025-08-04 07:56:03 +0000",
       "pine_log": "2025-08-04 00:51:08 +0000",
       "silver_birch_log": "2025-08-04 02:39:32 +0000",
+      "redwood_log": "2025-08-05 02:29:01 +0000",
       "maple_log": "2025-08-03 23:42:04 +0000"
     },
     "done": false
@@ -2551,8 +2552,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-08-05 02:26:41 +0000",
       "glow_berries": "2025-08-04 02:33:33 +0000",
       "sweet_berries": "2025-08-04 07:05:03 +0000",
+      "wheat": "2025-08-05 02:26:36 +0000",
       "carrot": "2025-08-05 02:18:11 +0000"
     },
     "done": false
@@ -6363,9 +6366,75 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-05 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "strainers:recipes/misc/summoning_block": {
+    "criteria": {
+      "has_stone": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
   "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
       "create_peat": "2025-08-05 02:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-08-05 02:26:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-08-05 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-05 02:26:36 +0000"
     },
     "done": true
   },

@@ -13144,3 +13144,41 @@ java.lang.IllegalStateException: not found
 [05Aug2025 02:24:37.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 has made the advancement [Sawing and Slicing]
 [05Aug2025 02:25:16.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
 [05Aug2025 02:25:23.666] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:26:19.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 02:26:36.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AllToAllies has made the advancement [A Seedy Place]
+[05Aug2025 02:26:39.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[05Aug2025 02:26:56.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[05Aug2025 02:27:14.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 02:27:31.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[05Aug2025 02:28:01.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Aug2025 02:28:44.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Aug2025 02:29:24.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 has made the advancement [Suit Up]
+[05Aug2025 02:29:31.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fred31212> r
+[05Aug2025 02:30:06.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Aug2025 02:30:45.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Aug2025 02:31:11.894] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:31:11.896] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:32:14.076] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:32:14.078] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:32:20.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 02:32:34.855] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:33:08.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Aug2025 02:33:29.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AllToAllies withered away whilst fighting Nightmare Stalker
+[05Aug2025 02:33:29.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 was slain by Nightmare Stalker
+[05Aug2025 02:33:43.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[05Aug2025 02:33:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to fred31212]
+[05Aug2025 02:34:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Zack_201]
+[05Aug2025 02:34:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[05Aug2025 02:34:43.162] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:36:01.901] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:36:15.015] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:36:28.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Aug2025 02:36:52.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Aug2025 02:37:09.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[05Aug2025 02:37:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 was slain by Horse
+[05Aug2025 02:37:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> XD
+[05Aug2025 02:37:28.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Aug2025 02:37:35.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Removed objective [Muertes]]
+[05Aug2025 02:37:47.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 02:37:48.430] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 02:37:49.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Created new objective [Muertes]]
