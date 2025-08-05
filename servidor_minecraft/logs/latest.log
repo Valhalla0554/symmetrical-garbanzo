@@ -3120,3 +3120,175 @@ java.lang.IllegalStateException: not found
 [05Aug2025 00:51:51.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -311.200000, 71.000000, -471.810000]
 [05Aug2025 00:51:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
 [05Aug2025 00:51:54.105] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 00:55:32.158] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 00:55:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> zzzzz
+[05Aug2025 00:56:16.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.27.121.238:46331] logged in with entity id 26231 at (-32.958860409952166, 152.0, -692.296608290776)
+[05Aug2025 00:56:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[05Aug2025 00:56:17.238] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[05Aug2025 00:56:17.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[05Aug2025 00:56:17.244] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[05Aug2025 00:56:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Corpse Fly
+[05Aug2025 00:56:29.428] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Aug2025 00:56:29.429] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[05Aug2025 00:56:29.429] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Aug2025 00:56:29.429] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Aug2025 00:56:29.429] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[05Aug2025 00:56:30.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[05Aug2025 00:56:31.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[05Aug2025 00:56:31.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[05Aug2025 00:56:50.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set spawn point to -313, 151, -650 [0.0] in minecraft:overworld for Zack_201]
+[05Aug2025 00:57:01.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zack_201 moved too quickly! 8.764651464848448,0.023088109101507825,5.3289285197731715
+[05Aug2025 00:57:03.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 fell from a high place
+[05Aug2025 00:57:03.814] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 00:57:30.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Squiell[/127.131.144.57:33493] logged in with entity id 27159 at (24.30000001192093, 136.0, 553.9185724932432)
+[05Aug2025 00:57:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Squiell joined the game
+[05Aug2025 00:57:30.976] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player squiell has successfully logged in.
+[05Aug2025 00:57:30.982] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Squiell (18)
+[05Aug2025 00:57:30.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Squiell
+[05Aug2025 00:57:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Zombie
+[05Aug2025 00:58:00.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Squiell lost connection: Timed out
+[05Aug2025 00:58:00.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Squiell left the game
+[05Aug2025 00:58:00.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Squiell
+[05Aug2025 00:58:02.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 lost connection: Timed out
+[05Aug2025 00:58:02.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 left the game
+[05Aug2025 00:58:02.151] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yuuichiro425
+[05Aug2025 00:59:14.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Gave 1 [Unlit Campfire] to Thes912]
+[05Aug2025 00:59:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[05Aug2025 01:00:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[05Aug2025 01:01:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 01:01:15.203] [ForkJoinPool.commonPool-worker-25/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Yuuichiro425'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23424!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda818b8$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mda818b8$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23459!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[05Aug2025 01:01:15.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuuichiro425[/127.17.220.8:39051] logged in with entity id 27722 at (552.8948568635277, 77.0, -19.27427714553493)
+[05Aug2025 01:01:15.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 joined the game
+[05Aug2025 01:01:16.457] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player yuuichiro425 has successfully logged in.
+[05Aug2025 01:01:16.462] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yuuichiro425 (18)
+[05Aug2025 01:01:16.462] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[05Aug2025 01:01:29.292] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0dc1716d-6324-3292-88fc-ee819627c835
+[05Aug2025 01:01:30.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0dc1716d-6324-3292-88fc-ee819627c835
+[05Aug2025 01:01:30.279] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
+[05Aug2025 01:01:38.159] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:02:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Zombie
+[05Aug2025 01:02:15.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 01:02:29.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 went up in flames
+[05Aug2025 01:02:39.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28390, l='ServerLevel[world]', x=572.80, y=-256.00, z=-35.48] died, message: 'Villager was killed'
+[05Aug2025 01:03:52.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aquio[/127.55.143.193:56393] logged in with entity id 28779 at (12.656600834121278, 156.0, 59.557978314710994)
+[05Aug2025 01:03:52.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio joined the game
+[05Aug2025 01:03:58.806] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player aquio has successfully logged in.
+[05Aug2025 01:03:58.829] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aquio (18)
+[05Aug2025 01:03:58.829] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aquio
+[05Aug2025 01:04:16.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[05Aug2025 01:04:17.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[05Aug2025 01:04:17.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aquio (cd3856d9-1f22-35c0-a43e-4ce04a018c07) successfully connected to voice chat
+[05Aug2025 01:04:19.617] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:04:46.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Spider
+[05Aug2025 01:04:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> que chota es un night stalker
+[05Aug2025 01:04:56.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was slain by Zombie
+[05Aug2025 01:05:02.326] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[05Aug2025 01:05:02.326] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[05Aug2025 01:05:02.326] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[05Aug2025 01:05:02.327] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:red_maple_leaves} not valid leaves for Species{registryName=dtru:maple}.
+[05Aug2025 01:05:02.335] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.335] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.336] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.337] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:red_maple}.
+[05Aug2025 01:05:02.343] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dtru:maple_leaves} not valid leaves for Species{registryName=dtru:orange_maple}.
+[05Aug2025 01:05:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was blown up by Creeper
+[05Aug2025 01:05:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Zack_201 to Thes912]
+[05Aug2025 01:05:32.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Spider
+[05Aug2025 01:05:35.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has made the advancement [Huddle Close]
+[05Aug2025 01:05:35.837] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:05:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> ZZZZZZZZZZZZZZZZZZZZZ
+[05Aug2025 01:05:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> zzzzzzzzz
+[05Aug2025 01:05:42.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:42.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:42.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:44.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> z
+[05Aug2025 01:05:45.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> ZZZZZ
+[05Aug2025 01:05:48.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> creetelo
+[05Aug2025 01:05:50.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aquio lost connection: Disconnected
+[05Aug2025 01:05:50.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio left the game
+[05Aug2025 01:05:50.481] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aquio
+[05Aug2025 01:05:59.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30115, l='ServerLevel[world]', x=521.73, y=70.00, z=24.41] died, message: 'Villager was slain by Zombie'
+[05Aug2025 01:06:10.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aquio[/127.55.143.193:48475] logged in with entity id 30443 at (9.699999988079071, 154.0, 61.30000001192093)
+[05Aug2025 01:06:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio joined the game
+[05Aug2025 01:06:11.506] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player aquio has successfully logged in.
+[05Aug2025 01:06:11.519] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aquio (18)
+[05Aug2025 01:06:11.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aquio
+[05Aug2025 01:06:38.817] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:07:01.244] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[05Aug2025 01:07:02.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cd3856d9-1f22-35c0-a43e-4ce04a018c07
+[05Aug2025 01:07:02.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aquio (cd3856d9-1f22-35c0-a43e-4ce04a018c07) successfully connected to voice chat
+[05Aug2025 01:07:11.471] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:07:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> ya es de dia?
+[05Aug2025 01:07:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> si
+[05Aug2025 01:07:32.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[05Aug2025 01:07:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 01:08:05.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Gave 1 [Wheat] to Thes912]
+[05Aug2025 01:08:16.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Cow]
+[05Aug2025 01:09:08.624] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:09:09.477] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:09:10.121] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:09:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Summoned new Cow]
+[05Aug2025 01:09:20.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 01:09:32.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio was shot by Skeleton
+[05Aug2025 01:09:34.422] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:09:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> man
+[05Aug2025 01:09:42.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> las arañas si sueltan hilo?
+[05Aug2025 01:09:57.127] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:10:20.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aquio was shot by Skeleton
+[05Aug2025 01:10:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 01:10:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 was shot by Skeleton
+[05Aug2025 01:11:36.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 01:11:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> quieren ojos de araña?
+[05Aug2025 01:11:47.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> no
+[05Aug2025 01:11:50.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[05Aug2025 01:11:52.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> dame hilo
+[05Aug2025 01:11:58.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> no tenemos
+[05Aug2025 01:11:59.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> xd
+[05Aug2025 01:12:00.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05Aug2025 01:12:05.965] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[05Aug2025 01:12:08.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aquio> cual es el puto droprate
+[05Aug2025 01:12:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> 50% da 1-2
+[05Aug2025 01:12:19.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Aug2025 01:12:38.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Aug2025 01:12:58.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 01:13:00.587] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END

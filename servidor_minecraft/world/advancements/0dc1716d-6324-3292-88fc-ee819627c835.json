@@ -4744,9 +4744,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-08-04 09:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-08-04 09:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 09:27:14 +0000"
     },
     "done": true
   },
@@ -4774,18 +4786,6 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/create_peat_farmland": {
-    "criteria": {
-      "create_peat": "2025-08-04 09:31:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-04 09:27:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-08-04 09:27:30 +0000"
@@ -4810,12 +4810,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
-    "criteria": {
-      "has_canvas_rug": "2025-08-04 09:14:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-08-04 09:27:30 +0000"
@@ -4828,15 +4822,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-04 09:27:30 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-08-04 09:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-08-04 09:32:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_planks": "2025-08-04 09:27:30 +0000"
+      "has_spruce_trapdoor": "2025-08-05 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-08-05 01:05:35 +0000"
     },
     "done": true
   },

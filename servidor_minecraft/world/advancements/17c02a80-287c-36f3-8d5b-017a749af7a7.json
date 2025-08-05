@@ -6069,5 +6069,17 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-08-05 00:52:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 00:52:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
