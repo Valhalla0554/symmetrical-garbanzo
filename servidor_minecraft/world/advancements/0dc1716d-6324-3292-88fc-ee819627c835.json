@@ -1055,6 +1055,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-08-04 02:55:15 +0000",
+      "minecraft:bamboo_jungle": "2025-08-05 01:38:17 +0000",
+      "minecraft:sparse_jungle": "2025-08-05 01:38:04 +0000",
       "minecraft:river": "2025-08-04 01:37:58 +0000",
       "minecraft:swamp": "2025-08-04 05:45:25 +0000",
       "minecraft:meadow": "2025-08-04 02:55:18 +0000"
@@ -4852,6 +4854,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
@@ -4900,6 +4908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
@@ -4936,6 +4950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
@@ -4963,6 +4983,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-08-05 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-05 01:39:21 +0000"
     },
     "done": true
   },
@@ -5023,6 +5049,12 @@
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
     },
     "done": true
   },
