@@ -1008,11 +1008,13 @@
       "cooked_porkchop": "2025-08-04 05:40:24 +0000",
       "chicken": "2025-08-04 03:23:45 +0000",
       "cooked_mutton": "2025-08-04 07:39:33 +0000",
+      "sweet_berries": "2025-08-05 02:08:40 +0000",
       "cooked_beef": "2025-08-04 06:35:20 +0000",
       "beef": "2025-08-04 00:04:05 +0000",
       "baked_potato": "2025-08-04 06:09:08 +0000",
       "porkchop": "2025-08-04 00:29:15 +0000",
       "tropical_fish": "2025-08-04 03:48:36 +0000",
+      "apple": "2025-08-05 02:09:15 +0000",
       "mutton": "2025-08-04 00:49:57 +0000",
       "bread": "2025-08-04 05:49:44 +0000",
       "rotten_flesh": "2025-08-04 03:57:47 +0000",
@@ -2550,7 +2552,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "glow_berries": "2025-08-04 02:33:33 +0000",
-      "sweet_berries": "2025-08-04 07:05:03 +0000"
+      "sweet_berries": "2025-08-04 07:05:03 +0000",
+      "carrot": "2025-08-05 02:18:11 +0000"
     },
     "done": false
   },
@@ -6357,6 +6360,18 @@
   "createdeco:recipes/decorations/zinc_door": {
     "criteria": {
       "has_item": "2025-08-05 01:51:28 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-08-05 02:17:42 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-08-05 02:25:14 +0000"
     },
     "done": true
   },

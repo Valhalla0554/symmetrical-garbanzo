@@ -440,6 +440,7 @@
       "minecraft:sunflower_plains": "2025-08-03 20:58:35 +0000",
       "minecraft:beach": "2025-08-05 01:51:20 +0000",
       "minecraft:river": "2025-08-03 20:07:11 +0000",
+      "minecraft:stony_shore": "2025-08-05 02:04:24 +0000",
       "minecraft:dripstone_caves": "2025-08-04 03:17:47 +0000",
       "minecraft:swamp": "2025-08-03 20:07:15 +0000",
       "minecraft:grove": "2025-08-05 01:48:16 +0000",
@@ -6086,6 +6087,42 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-08-05 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-05 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-05 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-08-05 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-05 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-05 02:17:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-08-05 02:17:17 +0000"
     },
     "done": true
   },

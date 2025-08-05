@@ -667,6 +667,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "silver_birch_log": "2025-08-03 23:19:00 +0000",
+      "redwood_log": "2025-08-05 02:11:10 +0000",
       "maple_log": "2025-08-03 22:08:07 +0000"
     },
     "done": false
@@ -2695,6 +2696,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-04 05:39:09 +0000",
       "chicken": "2025-08-04 04:39:29 +0000",
+      "cooked_mutton": "2025-08-05 02:09:32 +0000",
       "sweet_berries": "2025-08-04 06:19:49 +0000",
       "beef": "2025-08-04 04:31:01 +0000",
       "baked_potato": "2025-08-04 06:14:32 +0000",
@@ -3839,49 +3841,19 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/dark_oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_item": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-04 06:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-08-04 06:19:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 06:25:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-04 06:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-04 06:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-04 06:10:22 +0000"
     },
@@ -3899,39 +3871,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-08-04 06:33:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-04 06:19:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 06:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-08-04 06:53:52 +0000"
-    },
-    "done": true
-  },
   "alloyed:recipes/alloyed.main_group/crafting/bronze_bell": {
     "criteria": {
       "has_bronze_ingot": "2025-08-04 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/bronze_sliding_breechblock": {
+    "criteria": {
+      "has_bronze_ingot": "2025-08-04 06:10:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-04 06:10:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-04 06:10:43 +0000"
     },
     "done": true
   },
@@ -3947,21 +3907,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+  "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
-      "has_log": "2025-08-04 06:44:33 +0000"
+      "has_baked_potato": "2025-08-04 06:14:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
-      "has_stripped_logs": "2025-08-04 06:25:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-04 06:10:22 +0000"
+      "has_sweet_berries": "2025-08-04 06:19:42 +0000"
     },
     "done": true
   },
@@ -3971,21 +3925,117 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-08-04 06:19:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 06:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 06:33:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-08-04 06:33:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 06:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-08-04 06:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 06:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 06:35:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-08-04 06:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-04 06:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 06:44:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-04 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-08-04 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-04 06:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_log": "2025-08-04 06:33:59 +0000"
+      "has_planks": "2025-08-04 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-04 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-04 06:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-04 06:53:52 +0000"
     },
     "done": true
   },
@@ -4007,57 +4057,213 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-08-04 06:10:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-04 06:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
-      "has_stone_pickaxe": "2025-08-04 06:35:14 +0000"
+      "has_log": "2025-08-05 02:11:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "tfmg:recipes/building_blocks/red_caution_block_from_ingots_aluminum_stonecutting": {
     "criteria": {
-      "has_log": "2025-08-04 06:44:33 +0000"
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/bronze_sliding_breechblock": {
+  "natprog:craft_flint_saw": {
     "criteria": {
-      "has_bronze_ingot": "2025-08-04 06:10:23 +0000"
+      "get_flint_saw": "2025-08-05 02:24:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
     "criteria": {
-      "has_log": "2025-08-04 06:44:33 +0000"
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
     "criteria": {
-      "has_rice": "2025-08-04 06:10:43 +0000"
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "tfmg:recipes/building_blocks/factory_floor_from_ingots_aluminum_stonecutting": {
     "criteria": {
-      "has_baked_potato": "2025-08-04 06:14:28 +0000"
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
     "criteria": {
-      "has_raw_copper": "2025-08-04 06:10:22 +0000"
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/gray_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/magenta_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/aluminum_wire_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/purple_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/lime_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/brown_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/light_gray_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/green_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/white_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/get_nuggets_from_aluminum_ingot": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/yellow_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/light_blue_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/orange_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cyan_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/blue_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/pink_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
