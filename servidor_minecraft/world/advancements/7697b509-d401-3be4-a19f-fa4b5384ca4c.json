@@ -3995,105 +3995,171 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
-    "criteria": {
-      "has_logs": "2025-08-04 07:44:45 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/basket": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-08-04 10:16:11 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
-    "criteria": {
-      "has_log": "2025-08-04 08:16:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/larch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/regions_unexplored/redwood_backpack_shelf": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
     "criteria": {
-      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+      "has_bricks": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "createdeco:recipes/building_blocks/corner_red_brick_slab_from_bricks_stonecutting": {
     "criteria": {
-      "has_book": "2025-08-04 08:23:42 +0000"
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_quoin": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_blasting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_moss_block": {
+    "criteria": {
+      "hasitem": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_red_bricks_from_vine": {
+    "criteria": {
+      "hasitem": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
@@ -4103,33 +4169,81 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_larch_log": {
+  "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
+      "has_rabbit": "2025-08-04 07:27:07 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_catwalk_from_stonecutting": {
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
-      "has_item": "2025-08-04 09:02:27 +0000"
+      "has_rabbit": "2025-08-04 07:27:07 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/tf/regions_unexplored/redwood_banister": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
+      "has_mutton": "2025-08-04 07:36:59 +0000"
     },
     "done": true
   },
-  "natprog:craft_flint_saw": {
+  "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
-      "get_flint_saw": "2025-08-04 09:08:07 +0000"
+      "has_mutton": "2025-08-04 07:36:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
+      "has_cooked_mutton": "2025-08-04 07:36:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-04 07:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-04 07:37:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 07:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-08-04 07:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 07:44:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 07:46:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-08-04 07:46:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 07:46:46 +0000"
     },
     "done": true
   },
@@ -4139,9 +4253,321 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/larch_wood": {
+  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
     "criteria": {
-      "has_log": "2025-08-04 07:46:46 +0000"
+      "has_log": "2025-08-04 07:47:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-04 08:16:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 08:16:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 08:16:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-04 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-04 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-04 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-04 08:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-04 08:23:42 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-08-04 08:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-04 08:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-04 08:23:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-04 08:23:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 08:27:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_redwood_log": "2025-08-04 08:27:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_door": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_stairs": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_larch_log": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/larch_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/larch_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/larch_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_button": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_slab": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_trapdoor": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_fence_gate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_fence": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_trim": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_larch_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_sign": {
+    "criteria": {
+      "has_larch_planks": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_larch_post": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_post": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 08:43:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-08-04 09:01:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-08-04 09:02:27 +0000"
     },
     "done": true
   },
@@ -4163,81 +4589,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/book_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/corner_red_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_trapped_chest": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
-    "criteria": {
-      "has_yellow_lupine": "2025-08-04 09:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 09:32:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-08-04 10:16:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window_pane": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-08-04 09:18:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-08-04 07:36:59 +0000"
     },
     "done": true
   },
@@ -4253,45 +4607,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_chest": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_larch": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-08-04 07:37:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-04 10:16:11 +0000"
     },
     "done": true
   },
@@ -4319,69 +4637,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alloybrick": {
-    "criteria": {
-      "has_brick": "2025-08-04 10:09:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_door": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/canvas_rug": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/tiled_red_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/manual": {
-    "criteria": {
-      "has_book": "2025-08-04 08:23:42 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/short_red_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/corner_red_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/clinker_brick_quoin": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
@@ -4403,69 +4661,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/larch_stairs": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/full_tatami_mat": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-04 09:53:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/boat_jar": {
-    "criteria": {
-      "minecraft:boats": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-04 08:23:42 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/hollow_larch_log": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
     },
     "done": true
   },
@@ -4481,18 +4679,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/building_blocks/long_red_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/regions_unexplored/larch_backpack_shelf": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
@@ -4502,24 +4688,6 @@
   "immersiveengineering:recipes/misc/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/doormat_2": {
-    "criteria": {
-      "forge:crops/flax": "2025-08-04 10:05:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2025-08-04 07:44:45 +0000"
     },
     "done": true
   },
@@ -4547,42 +4715,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-04 08:23:42 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stripped_larch_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 07:47:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-04 08:16:22 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-08-04 09:02:27 +0000"
@@ -4607,21 +4739,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/fd/regions_unexplored/larch_cabinet": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/decorations/item_coaster": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
     },
     "done": true
   },
@@ -4637,69 +4757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/regions_unexplored/larch_banister": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_button": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/canvas_sign": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-04 09:53:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/painting_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
     },
     "done": true
   },
@@ -4709,69 +4769,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-08-04 07:36:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/strings": {
-    "criteria": {
-      "has_flax": "2025-08-04 10:05:51 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-08-04 07:37:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 07:44:45 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/bricks": {
-    "criteria": {
-      "has_copper_block": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
@@ -4793,75 +4799,9 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/create_peat_farmland": {
-    "criteria": {
-      "create_peat": "2025-08-04 09:53:07 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/short_red_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_4": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_2": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_half_drawers_1": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/stone_brick": {
-    "criteria": {
-      "has_copper_block": "2025-08-04 10:09:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 08:27:21 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
     },
     "done": true
   },
@@ -4874,18 +4814,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/tiled_red_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-08-04 07:27:07 +0000"
     },
     "done": true
   },
@@ -4907,33 +4835,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-04 08:23:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_slab": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
@@ -4961,129 +4865,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-04 08:23:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/corner_red_brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-08-04 08:23:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-04 09:32:09 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab_revert": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_trapdoor": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/corner_red_bricks_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/tiled_red_bricks_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_trim": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_blasting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_fence_gate": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flax_block": {
-    "criteria": {
-      "has_flax": "2025-08-04 10:05:51 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
@@ -5093,63 +4877,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/long_red_bricks_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/mossy_red_bricks_from_moss_block": {
-    "criteria": {
-      "hasitem": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/larch_pressure_plate": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/long_red_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
     },
     "done": true
   },
@@ -5159,39 +4889,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/larch_fence": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_ladder": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-08-04 07:36:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
-    "criteria": {
-      "has_log": "2025-08-04 07:46:46 +0000"
     },
     "done": true
   },
@@ -5207,33 +4907,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/rope": {
-    "criteria": {
-      "forge:crops/flax": "2025-08-04 10:05:51 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/mossy_red_bricks_from_vine": {
-    "criteria": {
-      "hasitem": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-04 08:23:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/half_tatami_mat": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
     },
     "done": true
   },
@@ -5243,63 +4919,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-08-04 09:02:27 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_facade_from_stonecutting": {
     "criteria": {
       "has_item": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_trim": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_larch_planks": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-04 10:16:11 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tatami": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
     },
     "done": true
   },
@@ -5315,15 +4943,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
     "criteria": {
-      "has_potato": "2025-08-04 09:53:31 +0000"
+      "has_item": "2025-08-04 09:02:27 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
+  "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
+      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support": {
+    "criteria": {
+      "has_item": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-04 09:06:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-04 09:06:41 +0000"
+    },
+    "done": true
+  },
+  "natprog:craft_flint_saw": {
+    "criteria": {
+      "get_flint_saw": "2025-08-04 09:08:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/redwood_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/redwood_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_trim": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
@@ -5345,51 +5147,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/larch_window": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
-    "criteria": {
-      "has_stripped_redwood_log": "2025-08-04 08:27:21 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tf/regions_unexplored/hollow_redwood_log": {
     "criteria": {
       "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-08-04 07:27:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/paper_from_tree_bark": {
-    "criteria": {
-      "has_tree_bark": "2025-08-04 09:06:41 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-04 09:33:16 +0000"
     },
     "done": true
   },
@@ -5411,21 +5171,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
-      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
+      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
     "criteria": {
-      "has_item": "2025-08-04 10:09:33 +0000"
+      "has_item": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/larch_planks": {
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
     "criteria": {
-      "has_logs": "2025-08-04 07:46:46 +0000"
+      "has_item": "2025-08-04 09:08:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-08-04 09:14:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-04 09:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 09:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 09:32:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-04 09:33:16 +0000"
     },
     "done": true
   },
@@ -5447,39 +5405,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_support": {
-    "criteria": {
-      "has_item": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_sign": {
-    "criteria": {
-      "has_larch_planks": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_larch_post": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-04 09:33:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-04 09:08:21 +0000"
     },
     "done": true
   },
@@ -5489,63 +5417,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+  "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
-      "has_canvas_rug": "2025-08-04 09:14:16 +0000"
+      "create_peat": "2025-08-04 09:53:07 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_shroomlight": "2025-08-04 08:23:16 +0000"
+      "has_potato": "2025-08-04 09:53:31 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "cutting_board": "2025-08-04 09:06:41 +0000"
+      "has_potato": "2025-08-04 09:53:31 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/hammer": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-08-04 10:06:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 08:16:22 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
-    "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_1": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_2": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/sd/regions_unexplored/larch_full_drawers_4": {
-    "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
+      "has_potato": "2025-08-04 09:53:31 +0000"
     },
     "done": true
   },
@@ -5555,45 +5447,153 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-04 09:02:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-08-04 09:53:37 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
+  "supplementaries:recipes/doormat_2": {
     "criteria": {
-      "has_item": "2025-08-04 09:08:21 +0000"
+      "forge:crops/flax": "2025-08-04 10:05:51 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
+  "supplementaries:recipes/strings": {
     "criteria": {
-      "has_bricks": "2025-08-04 07:24:01 +0000"
+      "has_flax": "2025-08-04 10:05:51 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_bookshelf": {
+  "supplementaries:recipes/flax_block": {
     "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
+      "has_flax": "2025-08-04 10:05:51 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_post": {
+  "supplementaries:recipes/rope": {
     "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
+      "forge:crops/flax": "2025-08-04 10:05:51 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/larch_vertical_slab": {
+  "farmersdelight:recipes/decorations/basket": {
     "criteria": {
-      "has_item": "2025-08-04 08:43:00 +0000"
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/decorations/item_coaster": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-04 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-08-04 10:09:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2025-08-04 10:09:33 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-08-04 10:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-04 10:16:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-04 10:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-04 10:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-04 10:16:11 +0000"
     },
     "done": true
   },

@@ -2170,6 +2170,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-08-05 00:05:49 +0000",
       "larch_log": "2025-08-04 07:25:29 +0000",
       "pine_log": "2025-08-04 06:46:30 +0000",
       "silver_birch_log": "2025-08-03 23:18:52 +0000",
@@ -5810,15 +5811,261 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-08-04 23:23:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-08-04 23:26:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_coal_ore": "2025-08-04 23:23:18 +0000"
+      "wheat": "2025-08-04 23:56:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-05 00:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-05 00:04:49 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/magnolia_hanging_sign": {
+    "criteria": {
+      "has_stripped_magnolia_log": "2025-08-05 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-08-05 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/magnolia_window": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_magnolia_log": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/magnolia_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_ladder": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_magnolia_log": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_magnolia_planks": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/magnolia_trim": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/magnolia_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/magnolia_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/magnolia_banister": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_magnolia_post": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_chest": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/magnolia_post": {
+    "criteria": {
+      "has_item": "2025-08-05 00:06:02 +0000"
     },
     "done": true
   },
