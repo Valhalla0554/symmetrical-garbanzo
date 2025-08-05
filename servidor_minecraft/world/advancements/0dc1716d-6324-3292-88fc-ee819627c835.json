@@ -106,6 +106,7 @@
       "cold_river": "2025-08-04 01:40:49 +0000",
       "pumpkin_fields": "2025-08-04 02:10:54 +0000",
       "pine_slopes": "2025-08-04 02:57:36 +0000",
+      "gravel_beach": "2025-08-05 01:59:19 +0000",
       "redwoods": "2025-08-04 07:57:30 +0000",
       "lupine_plains": "2025-08-04 05:24:40 +0000"
     },
@@ -132,6 +133,7 @@
       "cold_river": "2025-08-04 01:40:49 +0000",
       "pumpkin_fields": "2025-08-04 02:10:54 +0000",
       "pine_slopes": "2025-08-04 02:57:36 +0000",
+      "gravel_beach": "2025-08-05 01:59:19 +0000",
       "redwoods": "2025-08-04 07:57:30 +0000",
       "lupine_plains": "2025-08-04 05:24:40 +0000"
     },
@@ -1056,10 +1058,17 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-08-04 02:55:15 +0000",
       "minecraft:bamboo_jungle": "2025-08-05 01:38:17 +0000",
+      "minecraft:beach": "2025-08-05 01:51:20 +0000",
+      "minecraft:stony_peaks": "2025-08-05 01:42:37 +0000",
       "minecraft:sparse_jungle": "2025-08-05 01:38:04 +0000",
       "minecraft:river": "2025-08-04 01:37:58 +0000",
       "minecraft:swamp": "2025-08-04 05:45:25 +0000",
-      "minecraft:meadow": "2025-08-04 02:55:18 +0000"
+      "minecraft:cold_ocean": "2025-08-05 01:57:50 +0000",
+      "minecraft:forest": "2025-08-05 01:59:14 +0000",
+      "minecraft:ocean": "2025-08-05 01:52:44 +0000",
+      "minecraft:meadow": "2025-08-04 02:55:18 +0000",
+      "minecraft:savanna": "2025-08-05 01:47:08 +0000",
+      "minecraft:plains": "2025-08-05 01:48:38 +0000"
     },
     "done": false
   },
@@ -1698,6 +1707,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-04 06:46:21 +0000",
       "chicken": "2025-08-04 05:02:42 +0000",
+      "cooked_mutton": "2025-08-05 01:46:09 +0000",
       "sweet_berries": "2025-08-04 04:15:59 +0000",
       "cooked_beef": "2025-08-04 06:11:17 +0000",
       "beef": "2025-08-04 04:33:58 +0000",
@@ -4842,6 +4852,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-05 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-08-05 01:05:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
@@ -4851,12 +4873,6 @@
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-08-05 01:39:21 +0000"
     },
     "done": true
   },
@@ -4878,39 +4894,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-08-05 01:03:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-08-05 01:25:49 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
     },
     "done": true
   },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2025-08-05 01:05:35 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-08-05 01:39:21 +0000"
     },
     "done": true
   },
@@ -4950,12 +4942,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-08-05 01:39:21 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
@@ -4968,39 +4954,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-08-05 01:25:49 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-08-05 01:17:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-08-05 01:39:21 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-08-05 01:17:03 +0000"
     },
     "done": true
   },
@@ -5040,21 +5002,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-08-05 01:25:49 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-08-05 01:39:21 +0000"
     },
     "done": true
   },
@@ -5067,12 +5017,6 @@
   "regions_unexplored:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-08-05 01:17:03 +0000"
     },
     "done": true
   },
@@ -5121,6 +5065,84 @@
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 01:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-05 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-05 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-05 01:17:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-05 01:25:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-05 01:25:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-05 01:25:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-05 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-05 01:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-08-05 01:48:59 +0000"
     },
     "done": true
   },

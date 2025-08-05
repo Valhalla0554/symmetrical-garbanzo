@@ -1688,5 +1688,113 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-08-05 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-08-05 01:42:23 +0000"
+    },
+    "done": false
+  },
+  "cold_sweat:boiler_icebox": {
+    "criteria": {
+      "has_item": "2025-08-05 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_raw_fire_clay": {
+    "criteria": {
+      "has_clay": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_blinding_fluid": {
+    "criteria": {
+      "has_clay": "2025-08-05 01:47:06 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/unfired_insulator_from_clay_stonecutting": {
+    "criteria": {
+      "has_clay": "2025-08-05 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-05 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-08-05 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-05 01:48:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
