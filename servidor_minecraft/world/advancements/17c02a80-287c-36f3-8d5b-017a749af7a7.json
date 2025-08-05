@@ -6090,6 +6090,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-05 02:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-08-05 02:29:24 +0000"
@@ -6153,6 +6159,12 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-08-05 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-08-05 02:44:50 +0000"
     },
     "done": true
   },
